@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+p {
+    font: 16px;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
